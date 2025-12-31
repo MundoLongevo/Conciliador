@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Marie Conciliador",
+  "description": "Um sistema inteligente de conciliação bancária para a clínica Marie, permitindo o upload de extratos, identificação automática de créditos via IA e gestão de histórico de pagamentos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
